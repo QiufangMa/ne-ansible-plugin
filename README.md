@@ -35,13 +35,22 @@ or whatever version of python you installed
 
 ### obtain code
 
-git clone https://github.com/HuaweiDatacomm/ne-ansible-plugin.git
+```
+$git clone https://github.com/HuaweiDatacomm/ne-ansible-plugin.git
+```
 
-### run install.sh
+### execute install.sh
 
-`cd ne-ansible-plugin`
+```
+$cd ne-ansible-plugin
+```
 
-`chmod 777 install.sh`
+```
+$chmod 777 install.sh
+```
 
-`sh install.sh`
-
+```
+$sh install.sh
+```
+## Usage Examples
+TBD
